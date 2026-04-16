@@ -2,7 +2,7 @@
 ##### 3/14/26
 
 ## tool
-The tool i decied to choose was A-frame
+The tool i decied to choose was A-frame. This is because 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
