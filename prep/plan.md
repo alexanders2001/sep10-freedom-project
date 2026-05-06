@@ -26,6 +26,10 @@
 #### Beyond MVP
 
 * Task
+* MOBILE WIREFRAME
+* Add color
+* Add fonts
+* 
 
 
 
