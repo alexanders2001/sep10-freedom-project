@@ -4,10 +4,10 @@
 * 
 
 ## Product
-* 
+* Showing the audiance my website by putting a link to the preview. while explaning some of the hardware and software.
 
 ## Process
-* 
+*First i would show them both of the wireframes and code snippets
 
 ## Conclusion
 * 
