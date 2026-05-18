@@ -1,16 +1,17 @@
 # Presentation Plan
 
 ## Hook
-* 
+* did you know that writing was invented in 3400–3200 BCE
 
 ## Product
-* 
+* Showing the audiance my website by putting a link to the preview. while explaning some of the hardware and software.
 
 ## Process
-* 
+*First i would show them both of the wireframes(mobile and computer) and code snippets
 
 ## Conclusion
-* 
+* Takeawys
+* always ask for help from others
 
 <!-- EXAMPLE
 
